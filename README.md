@@ -16,7 +16,7 @@ A fully animated, mobile‑friendly Candy Crush‑style matching game built usin
 > Replace the image below with your own screenshot inside the project's GitHub folder.
 
 ```
-![Game Screenshot](./screenshot.png)
+![Game Screenshot](./Screenshot.png)
 ```
 
 ---
