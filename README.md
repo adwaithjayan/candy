@@ -1,4 +1,4 @@
-# 🍬 Modern Candy Crush Clone (Web Edition)
+# 🍬 Modern Candy Crush  (Web Edition)
 
 A fully animated, mobile‑friendly Candy Crush‑style matching game built using **HTML, CSS, jQuery, and a custom game engine**.
 
@@ -15,7 +15,7 @@ A fully animated, mobile‑friendly Candy Crush‑style matching game built usin
 
 ![Game Screenshot](./Screenshot.png)
 
-```
+
 
 ---
 
@@ -38,7 +38,7 @@ A fully animated, mobile‑friendly Candy Crush‑style matching game built usin
 ## 📁 Folder Structure
 
 ```
-📂 candy-crush-clone
+📂 candy
 │── index.html
 │── style.css
 │── script.js
