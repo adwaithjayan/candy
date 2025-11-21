@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Blast</title>
+    <link rel="stylesheet" href="style.css">
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="script.js"></script>
+
+</head>
+<body>
+<div class="game-wrap">
+
+
+<div class="board-wrap">
+<div id="board" aria-hidden="false"></div>
+<div class="combo-badge" id="combo" style="display:none">Combo x1</div>
+</div>
+
+
+<aside class="hud">
+<h1>Modern Candy Crush</h1>
+<div class="score" id="score">0</div>
+
+
+<div class="controls">
+<button id="btnRestart" class="btn">Restart</button>
+<button id="btnHint" class="btn muted">Hint</button>
+</div>
+
+
+<hr style="margin:12px 0;border:none;border-top:1px solid rgba(255,255,255,0.04)">
+<div style="font-size:13px;color:rgba(255,255,255,0.6)">Tips: Swipe on mobile. Matching 4 creates a striped candy, matching 5 creates a color bomb.</div>
+</aside>
+
+
+</div>
+</body>
+</html>
